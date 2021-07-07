@@ -4,7 +4,8 @@
 - permute(n_elements)
   
     for a given natural number n_elements returns the generator of
-    successive array permutations [0, 1, ..., n_elements - 1]
+    successive array permutations
+    [0, 1, ..., n_elements - 1]
   
 
 - all_subsets(n_elements, empty=True)
